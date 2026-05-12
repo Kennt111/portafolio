@@ -4,9 +4,14 @@ layout: home
 permalink: /
 ---
 
-# Hola Nara
+# Kenzo Nagasaki Niño de Zepeda
+## Licenciado en Economía, Máster en Economía y Políticas Públicas 
+### Realizando Máster en Data Science e Inteligencia Artificial
+#### Interesado en la ciencia de datos, el uso de machine learning e inteligencia artificial 
 
-<img src="./gato-besando-a-la-camara.gif" width="400" alt="Gato besando a la cámara">
+<img src="./Foto berlín cortada.jpg" width="400" alt="Foto">
 
+
+Aquí puedes ver mis [AboutMe](./AboutMe/).
 Aquí puedes ver mis [proyectos](./proyectos/).
-llevo 5 horas haciendo esta weá
+Aquí puedes ver mis [Work](./Work/).
