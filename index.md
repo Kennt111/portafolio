@@ -10,8 +10,8 @@ Realizando Máster en Data Science e Inteligencia Artificial
 Interesado en la ciencia de datos, el uso de machine learning e inteligencia artificial 
 
 
+<div style="text-align: center;">
+  <img src="./Foto berlín cortada.jpg" width="400" alt="Foto">
+</div>
 
-<br><br><br><img src="./Foto berlín cortada.jpg" width="400" alt="Foto">
-
-
-<br><br><br>[AboutMe](./AboutMe/).   [proyectos](./proyectos/).   [Work](./Work/).
+[AboutMe](./AboutMe/).   [proyectos](./proyectos/).   [Work](./Work/).
