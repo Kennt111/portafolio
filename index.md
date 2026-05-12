@@ -6,5 +6,4 @@ permalink: /
 
 # Hola Nara
 
-
-Aquí puedes ver mis [proyectos](/proyectos/).
+Aquí puedes ver mis [proyectos](./proyectos/).
