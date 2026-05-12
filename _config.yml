@@ -12,3 +12,4 @@ style: dark
 header_pages:
   - index.md
   - about.md
+  - proyectos.md

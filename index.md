@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Hola Nara
 
-Kenzo
+
+Aquí puedes ver mis [proyectos](/proyectos/).
